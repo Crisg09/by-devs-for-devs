@@ -1,6 +1,6 @@
 <h1> ✨ Recursos U Campers: Desarrollo Web Full Stack 🤓 </h1>
 
-# INDICE DE CONTENIDO
+# Índice
 
 - [Instalación de programas](https://github.com/Crisg09/by-devs-for-devs#-instalación-de-programas)
 
