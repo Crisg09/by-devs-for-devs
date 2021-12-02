@@ -44,6 +44,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • GITHUB https://docs.github.com/
 
+• VSC https://code.visualstudio.com/docs/?dv=win
+
 • GIT https://git-scm.com/book/en/v2
 
 • HTML https://lenguajehtml.com/
@@ -124,6 +126,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://getbootstrap.com/
 
 📌 JS
+
+• https://adventjs.dev/
 
 • https://grasshopper.app/es_419/
 
