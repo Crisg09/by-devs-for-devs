@@ -48,19 +48,13 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • GIT https://git-scm.com/book/en/v2
 
-• HTML https://lenguajehtml.com/
-
-• CSS https://lenguajecss.com/
-
-• FLEXBOX https://flexboxfroggy.com/#es
+• CSS https://developer.mozilla.org/es/docs/Web/CSS
 
 • BULMA https://bulma.io/documentation/overview/start/
 
 • BOOTSTRAP https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
-• JAVASCRIPT https://lenguajejs.com/
-
- - Libros: https://midu.dev/libros-gratis-javascript-para-aprender/
+• JAVASCRIPT https://developer.mozilla.org/es/docs/Web/JavaScript
 
 • REACT https://reactjs.org/docs/getting-started.html
 
@@ -70,13 +64,23 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • MONGO DB https://docs.mongodb.com/drivers/node/current/
 
-**COMPLEMENTARIO GENERAL**
+**COMPLEMENTARIO**
+
+• https://www.w3.org/developers/
 
 • https://developer.mozilla.org/es/
 
 • https://www.w3schools.com/
 
 • https://roadmap.sh/
+
+• HTML https://lenguajehtml.com/
+
+• CSS https://lenguajecss.com/
+
+• FLEXBOX https://flexboxfroggy.com/#es
+
+• JS https://midu.dev/libros-gratis-javascript-para-aprender/
 
 <h2>🌐 Codeando en línea</h2>
 
@@ -85,6 +89,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://codeshare.io/
 
 • https://codepen.io/
+
+• https://replit.com/
 
 • https://www.speedcoder.net/lessons/
 
@@ -95,6 +101,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://www.codewars.com/join
 
 • https://www.hackerrank.com/
+
+• https://leetcode.com/
 
 📌 HTML
 
@@ -138,6 +146,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://eloquentjs-es.thedojo.mx/
 
 • https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf
+
+• https://htmldog.com/guides/javascript/
 
 📌 GIT
 
@@ -216,6 +226,8 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://undraw.co/
 
 • https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+• http://jsforcats.com/
 
 <h3>CV interactivo</h3>
 
