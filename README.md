@@ -173,7 +173,7 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • https://pages.github.com/
 
-<h2>💻 Herramientas de Autogestión y Networking</h2>
+<h2>💻 Herramientas de Autogestión</h2>
 
 • https://tinyurl.com/crisgeniallyucamp
 
@@ -183,11 +183,7 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • https://asana.com/es
 
-• https://www.workana.com/es/
-
 • https://www.forestapp.cc/
-
-• https://es.fiverr.com/
 
 <h2>🗨 Foros de Dudas</h2>
 
@@ -204,6 +200,10 @@ Videotutorial: https://cutt.ly/OTPagPm
 • https://www.meetup.com/es-ES/
 
 • https://www.freelancer.mx/
+
+• https://www.workana.com/es/
+
+• https://es.fiverr.com/
 
 <h2>🎶 Playlist</h2>
 
