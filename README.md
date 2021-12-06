@@ -193,7 +193,7 @@ Videotutorial: https://cutt.ly/OTPagPm
 
 • https://qastack.mx/
 
-<h2>🌟 Desarrollo profesional</h2>
+<h2>🌝 Desarrollo profesional</h2>
 
 • https://app.codesignal.com/company/login/
 
