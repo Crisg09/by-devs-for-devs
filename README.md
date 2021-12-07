@@ -12,7 +12,7 @@
 
 - [Despliegue de Proyectos](https://github.com/Crisg09/by-devs-for-devs#-Despliegue-de-Proyectos)
 
-- [Herramientas de Autogestión y Networking](https://github.com/Crisg09/by-devs-for-devs#-Herramientas-de-Autogestión-y-Networking)
+- [Herramientas de Autogestión](https://github.com/Crisg09/by-devs-for-devs#-Herramientas-de-Autogestión)
 
 - [Foros de Dudas](https://github.com/Crisg09/by-devs-for-devs#-Foros-de-Dudas)
 
