@@ -4,11 +4,11 @@
 
 - [Instalación de programas](https://github.com/Crisg09/by-devs-for-devs#-instalación-de-programas)
 
-- [Documentación](https://github.com/Crisg09/by-devs-for-devs#-Documentación)
+- [Documentación](https://github.com/Crisg09/by-devs-for-devs#-documentación-)
 
 - [Codeando en línea](https://github.com/Crisg09/by-devs-for-devs#-Codeando-en-línea)
 
-- [Practica](https://github.com/Crisg09/by-devs-for-devs#-Práctica)
+- [Practica](https://github.com/Crisg09/by-devs-for-devs#-Práctica-)
 
 - [Despliegue de Proyectos](https://github.com/Crisg09/by-devs-for-devs#-Despliegue-de-Proyectos)
 
